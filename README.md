@@ -12,8 +12,8 @@ Escolhi propositadamente uma imagem que as duas redes tiveram bastante dificulda
 
 <p align="center">
 
-  <img src="https://user-images.githubusercontent.com/103445424/222725590-c5189603-7b9e-42b5-ac57-68e48dd14891.jpg" width="450" title="YOLOv7">
-  <img src="https://user-images.githubusercontent.com/103445424/222725451-0a463647-1d13-4bc6-ae0e-5497bdaae5d9.jpg" width="450" title="YOLOv7-X">
+  <img src="https://user-images.githubusercontent.com/103445424/222725590-c5189603-7b9e-42b5-ac57-68e48dd14891.jpg" width="350" title="YOLOv7">
+  <img src="https://user-images.githubusercontent.com/103445424/222725451-0a463647-1d13-4bc6-ae0e-5497bdaae5d9.jpg" width="350" title="YOLOv7-X">
 </p>
 
 
